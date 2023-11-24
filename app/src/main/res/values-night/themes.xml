@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Cancylater" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/food_Background</item>
+    </style>
+
+    <style name="Theme.Cancylater" parent="Base.Theme.Cancylater">
+        <item name="foodBackground">@color/food_Background</item>
+        <item name="foodCollor">@color/foog</item>
+
+    </style>
+
+</resources>

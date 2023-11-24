@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+   <attr name="foodBackground" format="color"/>
+   <attr name="foodCollor" format="color"/>
+</resources>

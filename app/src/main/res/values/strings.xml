@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="get_taha_txt">Login</string>
+    <string name="ramember_pass_txt">Ramember password</string>
+    <string name="forgrt_passwor">Forget password</string>
+    <string name="login_title_txt">Login</string>
+    <string name="email_txt">Password</string>
+    <string name="UP">lets up</string>
+    <string name="descrubeTxt">Descubre</string>
+    <string name="tototol">Tu musica favorite</string>
+    <string name="terms_txt">By signing in you agreeing \n our Term and privacy policy </string>
+    <string name="tototo">Albunas</string>
+    <string name="totot">Miusica clasica</string>
+    <string name="toto">Andras F. Espitia</string>
+    <string name="to">Mi musica favorite</string>
+    <string name="toti">Ultimas escuchadas</string>
+    <string name="toin">Aura</string>
+    <string name="tovi">Viana loca-osuna</string>
+
+
+    <string name="text_anime">Good morning</string>
+    <string name="text_second_anime">SaulDasing</string>
+    <string name="text_anime_rr">Recent Release</string>
+    <string name="text_anime_sm">See more</string>
+    <string name="text_anime_im">Coming Soon</string>
+
+    <string name="food_name">Braecfast</string>
+    <string name="foob_name_tv">Food</string>
+    <string name="offers">Fast</string>
+
+    <string name="name"> Abdullokh</string>
+    <string name="lastname">Shuhratbekov</string>
+    <string name="btn">Walcome</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

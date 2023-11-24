@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/foog_Red"
+    tools:context=".SecondScreenFragment">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/food_cr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/foog_Red"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/foog_Red"
+            android:src="@drawable/foods" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="77dp"
+            android:gravity="center"
+            android:text="Food Available On  your \n Door Step"
+            android:textColor="@color/Background"
+            android:textSize="33sp" />
+
+    </androidx.cardview.widget.CardView>
+
+    <Button
+        android:id="@+id/goBackScreenBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="48dp"
+        android:layout_marginTop="22dp"
+        android:backgroundTint="@color/red"
+        android:text="Get Started"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/food_cr" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
